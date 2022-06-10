@@ -1,0 +1,41 @@
+/*media queries*/
+
+@media(max-width:1024px){
+    .instagram_wrapper{
+       width: 70%; 
+    }
+}
+
+@media(max-width:740px){
+    body{
+        background-color: #fff;
+       
+    }
+    .instagram_wrapper{
+      width: 80%;
+    }
+  .instagram_phone{
+    display: none;
+  }
+  .instagram_continua{
+    width: 100%;
+  }
+  
+}
+
+@media (max-width:480px) {
+    .instagram_wrapper{
+        width: 80%;
+      }
+    .instagram_phone{
+      display: none;
+    }
+    .instagram_continua{
+      width: 90%;
+    }
+    .group{
+        border: 1px solid transparent;
+    
+      }
+  }
+    
