@@ -111,6 +111,9 @@ body{
     align-items: center;
     padding:1rem ;
 }
+.download a{
+    color: black;
+}
 
 .app-download{
     height: 3rem;

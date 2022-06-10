@@ -20,8 +20,7 @@
   .instagram_continua{
     width: 100%;
   }
-  
-}
+  }
 
 @media (max-width:480px) {
     .instagram_wrapper{
@@ -35,7 +34,6 @@
     }
     .group{
         border: 1px solid transparent;
-    
-      }
+        }
   }
     
