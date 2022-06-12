@@ -35,7 +35,6 @@ body{
 
 
 .instagram_continua{
-    /* background-color: aqua; */
     display: flex;
     align-items: center;/*horizontal*/
     justify-content: space-around;/*vertical*/
@@ -96,7 +95,6 @@ body{
 }
 
 .get-the-app{
-    /* background-color: lightblue; */
     display: flex;
     flex-direction: column;
     align-items: center;
