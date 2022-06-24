@@ -1,3 +1,5 @@
 # Recriando_a_pagina_inicial_do_Instagram-
-<h2>Projeto feito em HTML e CSS</h2>
-<h3>Projeto Responsivo</h3>
+## Projeto feito em HTML e CSS
+### Projeto Responsivo
+
+Deploy: https://talitaevancely.github.io/pagina_inicial-Instagram/
