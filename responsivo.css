@@ -3,6 +3,15 @@
 @media(max-width:1024px){
     .instagram_wrapper{
        width: 70%; 
+       justify-content: center;
+       
+    }
+    .instagram_continua{
+    justify-content: center;
+    text-align: center;
+    }
+    .group{
+      justify-content: center;
     }
 }
 
